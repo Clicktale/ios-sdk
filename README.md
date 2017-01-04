@@ -1,8 +1,8 @@
 # ClickTale SDK
 
-[![Version](https://img.shields.io/cocoapods/v/FlightRecorder.svg?style=flat)](http://cocoadocs.org/docsets/FlightRecorder)
-[![License](https://img.shields.io/cocoapods/l/FlightRecorder.svg?style=flat)](http://cocoadocs.org/docsets/FlightRecorder)
-[![Platform](https://img.shields.io/cocoapods/p/FlightRecorder.svg?style=flat)](http://cocoadocs.org/docsets/FlightRecorder)
+[![Version](https://img.shields.io/cocoapods/v/Clicktale.svg?style=flat)](http://cocoadocs.org/docsets/Clicktale)
+[![License](https://img.shields.io/cocoapods/l/Clicktale.svg?style=flat)](http://cocoadocs.org/docsets/Clicktale)
+[![Platform](https://img.shields.io/cocoapods/p/Clicktale.svg?style=flat)](http://cocoadocs.org/docsets/Clicktale)
 
 ## ClickTale
 
