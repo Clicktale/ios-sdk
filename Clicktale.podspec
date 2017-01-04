@@ -11,7 +11,7 @@ s.author            = { 'Clicktale' => 'support@clicktale.com' }
 s.license           = { :type => 'Commercial', :file => 'LICENSE' }
 
 s.platform          = :ios
-s.source            = { :http => 'https://github.com/Clicktale/ios-sdk/blob/master/Clicktale.zip'  , :tag => '2.0.1'}
+s.source            = { :http => 'https://github.com/Clicktale/ios-sdk/blob/master/Clicktale.zip'  , :tag => ‘2.1.0’}
 
 s.ios.deployment_target = '8.0'
 s.ios.vendored_frameworks = 'Clicktale.framework'
