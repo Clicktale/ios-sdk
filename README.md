@@ -8,7 +8,7 @@
 
 Clicktale is an iOS SDK that captures device screen with all user interactions, console output, location & other device informations and make them available to you on the web.
 
-Please go to link for more about Clicktale: https://www.clicktale.com/solutions/clicktale-for-apps/
+Please go to link for more about Clicktale: https://www.clicktale.com/solutions/reflect-true-experiences/app-analytics/
 
 ## License
 
