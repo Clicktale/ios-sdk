@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name              = 'Clicktale'
-s.version           = '2.1.9'
+s.version           = '2.1.10'
 s.summary           = 'Record user sessions into videos by adding just a few lines of code!.'
 s.description       = 'Clicktale is an iOS SDK that captures device screen with all user interactions, console output, location & other device informations and make them available to you on the web.'
 
